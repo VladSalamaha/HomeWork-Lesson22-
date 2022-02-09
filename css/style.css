@@ -7,3 +7,10 @@ li{
 a{
     text-decoration: none;
 }
+.marginnavbar{
+    margin-left:65%;
+}
+.imgmain{
+    height:80vh;
+    filter: grayscale(70%);
+}
